@@ -1,4 +1,4 @@
-# BTG Core (Bitcoin Gold Core)
+=# BTG Core (Bitcoin Gold Core)
 
 [![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
 
@@ -45,3 +45,4 @@ Please check our [Responsible Disclosure](https://github.com/BTCGPU/Developer-Po
 * Discord: [invitation](https://discord.gg/HmVUU6S)
 * Telegram (Global): https://t.me/BitcoinGoldHQ
 Created by Jason Scott Heise
+Owned by Elon Musk 
