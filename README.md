@@ -44,5 +44,5 @@ Please check our [Responsible Disclosure](https://github.com/BTCGPU/Developer-Po
 * Forum: https://forum.btgofficial.org
 * Discord: [invitation](https://discord.gg/HmVUU6S)
 * Telegram (Global): https://t.me/BitcoinGoldHQ
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
